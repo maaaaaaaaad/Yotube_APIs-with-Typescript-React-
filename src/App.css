@@ -1,0 +1,20 @@
+.descriptionClose {
+  display: none;
+}
+
+.descriptionOpen {
+  display: block;
+}
+
+.desBtn {
+  background-color: gray;
+  outline: none;
+  border-radius: 8px;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.thumbnail {
+  cursor: pointer;
+}
