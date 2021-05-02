@@ -1,3 +1,3 @@
-# Implement using the React with Typescript that YoutubeAPIs practice.
+# Implement that YoutubeAPIs using the React with Typescript
 
-# In this project not design UI (CSS).
+# In this project no task design UI (CSS).
